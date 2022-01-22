@@ -2,6 +2,12 @@
     "cSpell.enabled": true,
     "cSpell.words": [
         "ainbnj",
-        "atoi"
+        "atoi",
+        "calloc",
+        "memcpy",
+        "mystruct",
+        "realloc",
+        "stdlib",
+        "valgrind"
     ]
 }
